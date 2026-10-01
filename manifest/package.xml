@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Support_Ticket_Intelligence__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Support_Ticket_Intellegence</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Support_Ticket_Priority_Analysis2127242483</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>67.0</version>
+</Package>
